@@ -1,0 +1,5 @@
+#Local environment variables
+.env
+#Secrets files
+JamesSecrets.json
+
